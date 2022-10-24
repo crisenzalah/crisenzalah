@@ -5,10 +5,9 @@
 -  You can find me on Discord: *cristiansenzah#2510*
 ________________________________________________________________________________________________________________________________________________________________
 
-# My Skills 
-[![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png)](https://javascript.com/150)
+# My Skills
 
-
+<a href="https://javascript.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" width="50" height="50">
  
 
 
