@@ -24,7 +24,7 @@ ________________________________________________________________________________
 <a href="https://nodejs.org/en/"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" width="50" height="50">   --->                 <a href="https://discord.js.org/#/"> <img src="https://discord.js.org/static/djs_logo.png" width="50" length="50"> 
  
 ____________________________________________________________________________________________________________________________________________________________
- ### Softwares and Other
+ ### Softwares and Others
  <a href="https://discord.js.org/static/djs_logo.png"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="50" length="50"> <a href="https://www.adobe.com/it/products/photoshop/landpb.html?gclid=CjwKCAjw79iaBhAJEiwAPYwoCJX3I9_LgG-YgtVBdkeLw1-OA5sV8NdDTKJBGbD6kjsgCvFjOekCwxoCZy0QAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjw79iaBhAJEiwAPYwoCJX3I9_LgG-YgtVBdkeLw1-OA5sV8NdDTKJBGbD6kjsgCvFjOekCwxoCZy0QAvD_BwE:G:s&s_kwcid=AL!3085!3!340641313435!e!!g!!adobe%20photoshop!1457478956!59242745680"> <img src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-icon-png-logo-2.png" width="50" length="50">
   
 
