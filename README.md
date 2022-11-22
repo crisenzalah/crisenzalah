@@ -3,7 +3,7 @@
 -  Hi, I’m **@crisenzalah** *(Rome, IT)*
 -  I'm a Jr. Dev and I like hardware engineering 🖥️
 -  In my free time I practice calisthenics 🍃
--  I'm learning some languages like *Python, C and C++* and a Node.js module: *discord.js* 👨‍💻
+-  I'm learning some languages like *C and C++* and a Node.js module: *discord.js* 👨‍💻
 -  You can find me on Discord: *cristiansenzah#2510*
 ________________________________________________________________________________________________________________________________________________________________
 
